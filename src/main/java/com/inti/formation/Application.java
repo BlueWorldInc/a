@@ -27,6 +27,7 @@ public class Application {
 		Affaire a0 = new Affaire(10, "kerviel10", "kerviel10", "kerviel10", 10, taches, documents);
 		ametier.ajouter(a0);
 		System.out.println("je suis là2");
+		System.out.println("ici la terre github me recoit il ?");
 		
 	}
 

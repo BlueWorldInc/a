@@ -28,6 +28,7 @@ public class Application {
 		ametier.ajouter(a0);
 		System.out.println("je suis là2");
 		System.out.println("ici la terre github me recoit il ?");
+		System.out.println("ici la terre github me recoit il ?");
 		
 	}
 
